@@ -12,3 +12,4 @@ with open('applist.csv') as csv_file:
 for app in apps:
     print(app)
     
+
